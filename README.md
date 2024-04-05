@@ -8,6 +8,6 @@
 ### My CV
 [Look At My CV](https://docs.google.com/document/d/19LQPdZ-stUWvUuwfHH8peatpnz6E-2RMWG0lj6HZdV8/edit?usp=sharing)
 ### Test Artifacts
-[Postman](https://github.com/olya-nzv/POSTMAN-.git)
+[Postman](https://github.com/olya-nzv/POSTMAN.git)
 ### Reach Me On
 <a href= "https://www.linkedin.com/in/olga-nzv/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="35" height="35" alt="linkedin"/></a><a href= "https://t.me/olya_nzv"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="35" height="35" alt="telegram"/></a><a href= "mailto:olga.nzv@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="35" height="35" alt="gmail"/></a>
