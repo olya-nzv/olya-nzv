@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=33&pause=1000&color=EF5B25&width=435&lines=Hi%2C+there%2C+I'm+Olya+%F0%9F%99%8C%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-## I'm looking for my first commercial experience as a QA Engineer
+# I'm looking for my first commercial experience as a QA Engineer
 
 ### Some Tools I Use
 
