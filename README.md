@@ -2,7 +2,7 @@
 
 # I'm looking for my first commercial experience as a QA Engineer
 
-### Some Tools I Use
+## Some Tools I Use
 
 <div>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="35" height="35"/>&nbsp
@@ -16,7 +16,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
-### Look At My CV
+## Look At My CV
 [ENGLISH](<https://drive.google.com/file/d/1DPvzkd1lVmUSaEJX6nodfJp4GNBWv-Lv/view?usp=sharing>)<br> 
 [RUSSIAN](<https://drive.google.com/file/d/1vIDDxuPShmkxq9OsPfhwXs-TbifUdmg9/view?usp=sharing>)
 ### Test Artifacts
@@ -26,7 +26,7 @@
 [TestCases for JamieOliver website](https://github.com/olya-nzv/testcases.git)<br> 
 [Тестовое задание для приложения "МОЙ ЗУБНОЙ"](<https://docs.google.com/spreadsheets/d/15Y31K8iL_6QO2ngQTt1OgHZWeQX9IEmyzLvyYZcLStE/edit?usp=sharing>)
 
-### Reach Me On
+## Reach Me On
 <div>
 <a href= "https://www.linkedin.com/in/olga-nzv/">
 <img src="https://img.icons8.com/?size=512&id=13930&format=png" width="35" height="35" alt="linkedin"/>
