@@ -1,4 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%00001&lines=Hi+,+there+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=350&size=30&pause=1000&color=FF4E00&width=435&lines=Hi%2C+there!)](https://git.io/typing-svg)
+---
 ## I'm looking for my first commercial experience as a QA Engineer
 ### Some Tools I Use
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="35" height="35"/>
