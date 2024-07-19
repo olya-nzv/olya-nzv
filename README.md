@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6C37&background=09831400&center=true&width=435&lines=Hi%2C+there%2C+I'm+Olya+)](https://git.io/typing-svg)
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=33&pause=1000&color=EF5B25&width=435&lines=Hi%2C+there%2C+I'm+Olya+%F0%9F%99%8C%F0%9F%8F%BB)](https://git.io/typing-svg)
+
 ## I'm looking for my first commercial experience as a QA Engineer
-### Some Tools I Use:
+
+### Some Tools I Use
 
 <div>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="35" height="35"/>&nbsp
