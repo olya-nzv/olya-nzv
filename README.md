@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232323&lines=Hi+,+there+!)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%000000&lines=Hi+,+there+!)](https://git.io/typing-svg) 
 ## I'm looking for my first commercial experience as a QA Engineer
 ### Some Tools I Use
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="35" height="35"/>
@@ -16,6 +16,6 @@
 
 ### Reach Me On
 <a href= "https://www.linkedin.com/in/olga-nzv/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="35" height="35" alt="linkedin"/></a><a href= "https://t.me/olya_nzv"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="35" height="35" alt="telegram"/></a><a href= "mailto:olga.nzv@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="35" height="35" alt="gmail"/></a>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
