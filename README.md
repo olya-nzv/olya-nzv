@@ -19,7 +19,7 @@
 ## Look at my CV
 [IN ENGLISH](<https://drive.google.com/file/d/1DPvzkd1lVmUSaEJX6nodfJp4GNBWv-Lv/view?usp=sharing>)<br> 
 [IN RUSSIAN](<https://drive.google.com/file/d/1vIDDxuPShmkxq9OsPfhwXs-TbifUdmg9/view?usp=sharing>)
-### Test artifacts
+## Test artifacts
 [Postman](https://github.com/olya-nzv/POSTMAN.git) <br> 
 [Cypress](https://github.com/olya-nzv/cypress.git)<br> 
 [Telegram bot on Pyton](https://github.com/olya-nzv/serialquote_bot.git)<br> 
